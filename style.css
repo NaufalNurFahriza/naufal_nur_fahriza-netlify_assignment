@@ -1,0 +1,10 @@
+* {
+	padding:0;
+	margin:0;
+	font-family: 'Quicksand', sans-serif;
+	box-sizing: border-box;
+}
+
+.img{
+	background-image: url(../src/assets/foto-profil.png);
+}
